@@ -1,27 +1,15 @@
 ---
-title: "Edit me to practice contributing to a collaborative Manubot manuscript"
+title: "Contoh salah satu naskah"
 keywords:
-  - markdown
-  - publishing
-  - manubot
-  - demo
-lang: en-US
+  - Contoh 1
+  - Contoh 2
+  - Contoh 3
+lang: en-ID
 authors:
-  - github: johndoe
-    name: John Doe
+  - last name: Rafiq
+    first name: Ainu
     initials: JD
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
     email: john.doe@something.com
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Pusat Penelitian dan Pengabdian Masyarakat, Poltekkes Kemenkes Kendari, Indonesia
